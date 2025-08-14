@@ -20,3 +20,4 @@ Ou récuperer la branche distante directement
 il faut la *pull* depuis l'origine pour avoir accès à la branche disponible en ligne
 
     git pull origin {nom_de_la_branche}
+
